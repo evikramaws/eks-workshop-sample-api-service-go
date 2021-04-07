@@ -15,7 +15,7 @@ kind: Deployment
 metadata:
   name: boston-flask-k8s
 spec:
-  replicas: 3
+  replicas: 4
   strategy:
     type: RollingUpdate
     rollingUpdate:
