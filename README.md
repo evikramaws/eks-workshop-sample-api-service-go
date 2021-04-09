@@ -1,4 +1,4 @@
-# boston-flask-sample-api-service-go
+# boston-flask-k8s deployment
 
 A sample Kubernetes service used in the demo CI/CD Pipeline module.
 
